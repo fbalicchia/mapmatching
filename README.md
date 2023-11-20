@@ -17,7 +17,7 @@ python src/Mapmatching.py --maps data/map_information.csv --gpsdata data/gps_tra
 output with plotting
 ```bash
 mkdir result
-python src/Mapmatching.py --maps data/map_information.csv --gpsdata data/gps_track.dat --output result/output.txt
+python src/Mapmatching.py --maps data/map_information.csv --gpsdata data/gps_track.dat --output result/output.txt --plot
 ```
 
 
